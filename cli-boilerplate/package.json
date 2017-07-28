@@ -37,7 +37,10 @@
 	},
 	"xo": {
 		"rules": {
-			"quotes": ["error", "double"]
+			"quotes": [
+				"error",
+				"double"
+			]
 		}
 	}
 }
