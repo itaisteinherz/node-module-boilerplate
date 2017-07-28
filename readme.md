@@ -4,7 +4,7 @@
 
 Also with a boilerplate for creating a [CLI](http://en.wikipedia.org/wiki/Command-line_interface).
 
-This is what I use for [my own modules](https://www.npmjs.com/~sindresorhus).
+This is what I use for [my own modules](https://github.com/itaisteinherz?utf8=✓&tab=repositories&q=&type=&language=javascript).
 
 
 ## Getting started
@@ -12,18 +12,18 @@ This is what I use for [my own modules](https://www.npmjs.com/~sindresorhus).
 In your directory, run:
 
 ```
-$ curl -fsSL https://github.com/sindresorhus/node-module-boilerplate/archive/master.tar.gz | tar -xz --strip-components=2 node-module-boilerplate-master/boilerplate
+$ curl -fsSL https://github.com/itaisteinherz/node-module-boilerplate/archive/master.tar.gz | tar -xz --strip-components=2 node-module-boilerplate-master/boilerplate
 ```
 
 Or if you want to create a CLI:
 
 ```
-$ curl -fsSL https://github.com/sindresorhus/node-module-boilerplate/archive/master.tar.gz | tar -xz --strip-components=2 node-module-boilerplate-master/cli-boilerplate
+$ curl -fsSL https://github.com/itaisteinherz/node-module-boilerplate/archive/master.tar.gz | tar -xz --strip-components=2 node-module-boilerplate-master/cli-boilerplate
 ```
 
-Alternatively you can `git clone` or [download](https://github.com/sindresorhus/node-module-boilerplate/archive/master.zip) this repo and get contents of the `boilerplate` or `cli-boilerplate` folder.
+Alternatively you can `git clone` or [download](https://github.com/itaisteinherz/node-module-boilerplate/archive/master.zip) this repo and get contents of the `boilerplate` or `cli-boilerplate` folder.
 
-There's also a [Yeoman generator](https://github.com/sindresorhus/generator-nm).
+There's also a [Yeoman generator](https://github.com/itaisteinherz/generator-nm).
 
 
 ## License

@@ -1,4 +1,6 @@
-# <%= moduleName %> [![Build Status](https://travis-ci.org/<%= githubUsername %>/<%= moduleName %>.svg?branch=master)](https://travis-ci.org/<%= githubUsername %>/<%= moduleName %>)
+# <%= moduleName %>
+
+[![Build Status](https://travis-ci.org/<%= githubUsername %>/<%= moduleName %>.svg?branch=master)](https://travis-ci.org/<%= githubUsername %>/<%= moduleName %>)
 
 >
 
@@ -13,10 +15,10 @@ $ npm install <%= moduleName %>
 ## Usage
 
 ```js
-const <%= camelModuleName %> = require('<%= moduleName %>');
+const <%= camelModuleName %> = require("<%= moduleName %>");
 
-<%= camelModuleName %>('unicorns');
-//=> 'unicorns & rainbows'
+<%= camelModuleName %>("unicorns");
+//=> "unicorns & rainbows"
 ```
 
 

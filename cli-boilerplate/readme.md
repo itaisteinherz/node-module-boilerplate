@@ -1,4 +1,6 @@
-# <%= moduleName %>-cli [![Build Status](https://travis-ci.org/<%= githubUsername %>/<%= moduleName %>-cli.svg?branch=master)](https://travis-ci.org/<%= githubUsername %>/<%= moduleName %>-cli)
+# <%= moduleName %>-cli
+
+[![Build Status](https://travis-ci.org/<%= githubUsername %>/<%= moduleName %>-cli.svg?branch=master)](https://travis-ci.org/<%= githubUsername %>/<%= moduleName %>-cli)
 
 >
 
